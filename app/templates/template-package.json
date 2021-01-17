@@ -1,0 +1,13 @@
+{
+  "name": "<%= generatorName %>",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "<%= author %>",
+  "license": "MIT",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ]
+}

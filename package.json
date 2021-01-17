@@ -1,0 +1,16 @@
+{
+  "name": "generator-generator",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Evn Sey",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ]
+}
