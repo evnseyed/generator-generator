@@ -1,3 +1,5 @@
+// This generator was generate using https://github.com/evnseyed/generator-generator
+
 const YoGenerator = require('yeoman-generator');
 
 module.exports = class extends YoGenerator {
